@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Bijay Sau</h1>
 <h3 align="center">A passionate Fullstack-Web-Developer from India</h3>
 
@@ -7,13 +8,41 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/bijaysau" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bijaysau?logo=twitter&style=for-the-badge" alt="https://twitter.com/bijaysau" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack-Web-Dvelopment**
+<h1 class="heading-element" dir="auto">💫 About Me :</h1>
+<ul dir="auto">
+<li>😄 Pronouns: He/His</li>
+<li>🔭 I’m currently learning **FullStack-Web-Development** .</li>
+<li>🤔 I’m looking for help with career guidance.</li>
+<li>💬 Ask me about Full Stack Development.</li>
+<li>📫 How to reach me: <a href="" rel="nofollow">Linkedin - @BijaySau</a></li>
+<li>⚡ Fun fact: I would love to work with same minded people like me as a team.</li>
+</ul>
 
-- 💬 Ask me about **Backend, Fronted etc.**
 
-- 📫 How to reach me **bijaysaha594@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
