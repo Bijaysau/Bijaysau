@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijaysau" alt="bijaysau" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/bijaysau" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/bijaysau?logo=twitter&style=for-the-badge" alt="https://twitter.com/bijaysau" /></a> </p>
+
 
 <h1 class="heading-element" dir="auto">💫 About Me :</h1>
 <ul dir="auto">
