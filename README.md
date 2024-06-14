@@ -1,12 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 
-
-<h1 align="center" class="heading-element" dir="auto"> Hi, <animated-image data-catalyst="" style="width: 45px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" data-target="animated-image.originalLink"></animated-image> I'm Naveen Singh</h1>
-
-
-
-
+<h1 align="center">Hi 👋, I'm Bijay Sau</h1>
 
 
 
