@@ -3,13 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Bijaysau&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Bijaysau" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Bijaysau&theme=" alt="https://github.com/Bijaysau" /></a> </p>
-💫 About Me :
-😄 Pronouns: He/His
-🌱 I’m currently learning **FullStack-Web-Development**
-🤔 I’m looking for help with career guidance.
-💬 Ask me about Full Stack Development.
-📫 How to reach me: Linkedin - @BijaySau
-⚡ Fun fact: I would love to work with same minded people like me as a team.
+<h1 class="heading-element" dir="auto">💫 About Me :</h1>
+<ul dir="auto">
+<li>😄 Pronouns: He/His</li>
+<li>🔭 I’m currently learning **FullStack-Web-Development** .</li>
+<li>🤔 I’m looking for help with career guidance.</li>
+<li>💬 Ask me about Full Stack Development.</li>
+<li>📫 How to reach me: <a href="" rel="nofollow">Linkedin - @BijaySau</a></li>
+<li>⚡ Fun fact: I would love to work with same minded people like me as a team.</li>
+</ul>
+
 
 
 
