@@ -23,7 +23,7 @@
 <li>🔭 I’m currently learning **FullStack-Web-Development** .</li>
 <li>🤔 I’m looking for help with career guidance.</li>
 <li>💬 Ask me about Full Stack Development.</li>
-<li>📫 How to reach me: <a href="" rel="nofollow">Linkedin - @BijaySau</a></li>
+<li>📫 How to reach me: <a href="https://www.linkedin.com/in/bijay-sau-02" rel="nofollow">Linkedin - @BijaySau</a></li>
 <li>⚡ Fun fact: I would love to work with same minded people like me as a team.</li>
 </ul>
 
